@@ -52,19 +52,13 @@ body {
 }
 
 
-
-
-.hobbies ul{
-  list-style-type:none;
-}
-
-/*.aligned-left-img{
-  float: right;
-}*/
 .bio-profile-pic{
   max-height: 230px;
   float: right;
 }
-ul {
-  float: left;
+
+
+
+.hobbies ul{
+  list-style-type:none;
 }
