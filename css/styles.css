@@ -1,8 +1,25 @@
-.portfolio-title{
 
+#greeting{
+  text-align: center;
+}
+.bio-profile-pic{
+  height: 100px;
+  text-align: center;
+}
+
+
+/*Portfolio  Section*/
+.portfolio-title{
+  text-align: center;
 }
 
  .portfolio-image{
   max-height: 200px;
+
+}
+
+/*History and Interests Section*/
+.history-header{
+  text-align: center;
 
 }
