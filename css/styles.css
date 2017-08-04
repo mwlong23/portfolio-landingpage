@@ -1,25 +1,51 @@
 
+@import url('https://fonts.googleapis.com/css?family=Droid+Sans|Fjalla+One|Press+Start+2P|Zilla+Slab+Highlight');
+
+/*Bio  Section*/
 #greeting{
   text-align: center;
+  font-family: 'Press Start 2P', cursive;
+  font-size: 60px;
+  font-weight: bold;
+  color: #2ecc71;
 }
 .bio-profile-pic{
-  height: 100px;
+  max-height: 100px;
   text-align: center;
 }
 
 
 /*Portfolio  Section*/
-.portfolio-title{
-  text-align: center;
+.portfolio-image{
+  height: 230px;
 }
 
- .portfolio-image{
-  max-height: 200px;
+.project-title{
+  font-family: 'Droid Sans', sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+  border: 1px solid black:
 
 }
 
 /*History and Interests Section*/
-.history-header{
-  text-align: center;
+
+p{
+  font-family: 'Droid Sans', sans-serif;
+  font-size: 16px;
+}
+body {
+  background-color: #2c3e50;
+}
+.section-header{
+  font-family: 'Zilla Slab Highlight', cursive;
+  font-size: 50px;
+}
+.well{
+  background-color: #2ecc71;
+}
+img{
+  border-radius: 5px;
+  border: 2px solid black;
 
 }
