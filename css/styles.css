@@ -1,6 +1,16 @@
 
 @import url('https://fonts.googleapis.com/css?family=Droid+Sans|Fjalla+One|Press+Start+2P|Zilla+Slab+Highlight');
 
+/*Background & Well Styling */
+
+img{
+  border-radius: 5px;
+  border: 2px solid black;
+}
+.well{
+  background-color: #2ecc71;
+}
+
 /*Bio  Section*/
 #greeting{
   text-align: center;
@@ -10,14 +20,14 @@
   color: #2ecc71;
 }
 .bio-profile-pic{
-  max-height: 100px;
-  text-align: center;
+  max-height: 230px;
+  text-align: ;
 }
 
 
 /*Portfolio  Section*/
-.portfolio-image{
-  height: 230px;
+.portfolio-image, #hobbies-photo{
+  height: 150px;
 }
 
 .project-title{
@@ -29,7 +39,10 @@
 }
 
 /*History and Interests Section*/
-
+.section-header{
+  font-family: 'Zilla Slab Highlight', cursive;
+  font-size: 50px;
+}
 p{
   font-family: 'Droid Sans', sans-serif;
   font-size: 16px;
@@ -37,15 +50,21 @@ p{
 body {
   background-color: #2c3e50;
 }
-.section-header{
-  font-family: 'Zilla Slab Highlight', cursive;
-  font-size: 50px;
-}
-.well{
-  background-color: #2ecc71;
-}
-img{
-  border-radius: 5px;
-  border: 2px solid black;
 
+
+
+
+.hobbies ul{
+  list-style-type:none;
+}
+
+/*.aligned-left-img{
+  float: right;
+}*/
+.bio-profile-pic{
+  max-height: 230px;
+  float: right;
+}
+ul {
+  float: left;
 }
