@@ -4,30 +4,28 @@
 
 #### By _**Mitchell Long**_
 
-## What is it?
+## Description
 
 _This is a page I created from scratch to showcase what I've learned throughout my first week as an Epicodus student. Ive used html, CSS and Bootstrap to style a moc portfolio of my work that houses my resume and links to my github projects._
 
 ## Setup/Installation Requirements
 
-
-
-_No setup necessary,simply visit the GitHub pages branch of this repo and you can view it live. _
+_To view this page simply clone this repo or visit the gh-pages branch @ https://mwlong23.github.io/portfolio-landingpage/ -_
 
 ## Known Bugs
 
-_This page is not as responsive as it should be. It's not properly formatted to all screen sizes and loses its structure as the screen size is decreased. I did my best with the time I had!_
+_This page is not as responsive as it should be. Responsiveness is limited and is best suited for larger viewports._
 
 ## Support and contact details
 
-_If you have trouble viewing this project or have questions please email me at mwlong23@gmail.com_
+_If any bugs or have suggestions please contact Mitch Long @ meechllada@gmail.com_
 
 ## Technologies Used
 
-_This project uses a combination HTML, CSS and Bootstrap.  There is nothing extra-special going on here._
+_This page was built using HTML, and CSS_
 
 ### License
 
-*This content is covered by an MIT openware License.*
+*This content is distributed under the MIT open software License*
 
-Copyright (c) 2017 **_{Mitch Long with help from Epicodus}_**
+Copyright (c) 2017 **_Mitchell Long_**
