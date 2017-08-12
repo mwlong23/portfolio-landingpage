@@ -57,7 +57,12 @@ body {
   float: right;
 }
 
- li{
+ul li{
   list-style-type:none;
+}
 
+.bolden{
+  font-weight: bold;
+  color:blue
+  
 }
